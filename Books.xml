@@ -1,0 +1,19 @@
+<?xml version="1.0">
+<books>
+<book1>
+<title>Web Development Technologies</title>
+<author> T.Murali krishna</author>
+<publisher>Pearson</publisher>
+<ISBN>254689</ISBN>
+     <edition>7th edition</edition>
+     <price>2000</price>
+</book1>
+<book2>
+     <title>Robotics</title>
+     <author>Newmann</author>
+     <publisher>Pearson</publisher>
+    <ISBN>255689</ISBN>
+     <edition>8th edition</edition>
+     <price>3000</price>
+</book2>
+</books>
